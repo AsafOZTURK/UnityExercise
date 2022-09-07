@@ -17,11 +17,25 @@
             dizi[3] = 10;
 
 
-            ///////////////////////////////// DÖNGÜLER 
+            //DÖNGÜLER// 
             foreach (var hayvan in hayvanlar)
             {
                 Console.WriteLine(hayvan);
             }
+
+            /////////////////Diziler Metodları /////////////
+            
+            int[] sayilar = {23,17,81,64,6,2,93,60};
+
+            Array.Sort(sayilar);  //dizi elemanlarını küçükten büyüğe sıralar
+
+            Array.Clear(sayilar,2,2);   //sayilar dizisinde 2. elemandan başlayarak 2 elemanı 0 olarak değişirir
+
+            Array.Reverse(sayilar);  //elemanları ortada ayna varmış gibi ters çevirir
+
+            Array.IndexOf(sayilar,81); //dizi içinde 81 varsa index numarasını döndürür yoksa yok der
+
+            Array.Resize<int>(ref sayilar, 10); //int sayilar dizinin boyutunu 10 yaptı
         }
     }
 } 
