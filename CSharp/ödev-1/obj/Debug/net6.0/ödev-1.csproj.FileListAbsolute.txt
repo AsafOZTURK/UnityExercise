@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\ödev-1\bin\Debug\net6.0\ödev-1.exe
+C:\Users\mehme\Desktop\ödev-1\bin\Debug\net6.0\ödev-1.deps.json
+C:\Users\mehme\Desktop\ödev-1\bin\Debug\net6.0\ödev-1.runtimeconfig.json
+C:\Users\mehme\Desktop\ödev-1\bin\Debug\net6.0\ödev-1.dll
+C:\Users\mehme\Desktop\ödev-1\bin\Debug\net6.0\ödev-1.pdb
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.AssemblyInfo.cs
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.dll
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\refint\ödev-1.dll
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.pdb
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ödev-1.genruntimeconfig.cache
+C:\Users\mehme\Desktop\ödev-1\obj\Debug\net6.0\ref\ödev-1.dll
