@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\mat_metotları\bin\Debug\net6.0\mat_metotları.exe
+C:\Users\mehme\Desktop\mat_metotları\bin\Debug\net6.0\mat_metotları.deps.json
+C:\Users\mehme\Desktop\mat_metotları\bin\Debug\net6.0\mat_metotları.runtimeconfig.json
+C:\Users\mehme\Desktop\mat_metotları\bin\Debug\net6.0\mat_metotları.dll
+C:\Users\mehme\Desktop\mat_metotları\bin\Debug\net6.0\mat_metotları.pdb
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.AssemblyInfo.cs
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.dll
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\refint\mat_metotları.dll
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.pdb
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\mat_metotları.genruntimeconfig.cache
+C:\Users\mehme\Desktop\mat_metotları\obj\Debug\net6.0\ref\mat_metotları.dll
