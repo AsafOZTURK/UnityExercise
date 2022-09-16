@@ -6,6 +6,8 @@ internal class Program
 
     private static void Main(string[] args)
     {
+        ////////////////////////////////////// ARRAY YLİST //////////////////////////////////////
+        /*
         ArrayList liste = new ArrayList();
 
         //eleman ekleme
@@ -41,6 +43,51 @@ internal class Program
 
         //Reverse   ters çevirir
         //Clear  listedeki herşeyi siler
-        Console.WriteLine(liste.Clear());
+        Console.WriteLine(liste.Clear();
+        */
+
+        ////////////////////////////////////// SÖZLÜKLER - DİCTİONARY //////////////////////////////////////
+
+        Dictionary<int, string> kullanicilar = new Dictionary<int, string>();
+
+        //eleman ekleme
+        kullanicilar.Add(0,"Mehmet Asaf ÖZTÜRK");
+        kullanicilar.Add(20,"Mehmet");
+        kullanicilar.Add(13,"Asaf ÖZTÜRK");
+
+        //içindekileri görünütleme
+        Console.WriteLine(kullanicilar[13]); //13 keyine sahip value getir
+
+        foreach (var item in kullanicilar)
+        {
+            Console.WriteLine(item);
+        }
+
+        //Count  eleman sayısını gösterir
+        Console.WriteLine(kullanicilar.Count);
+
+        //Contains   verdiğimiz anahtara sahip eleman var mı
+        Console.WriteLine(kullanicilar.ContainsKey(0));
+        Console.WriteLine(kullanicilar.ContainsValue("Mehmet"));
+
+        //Remove 
+        kullanicilar.Remove(13); //13 key nuamralı elemanı sözlükten sil    
+
+        //Keys -Values
+        foreach (var item in kullanicilar)
+        {
+            Console.WriteLine(item.Value);
+            Console.WriteLine(item.Key);
+        }
+        foreach (var item in kullanicilar.Keys)
+        {
+            Console.WriteLine(item);
+
+        }
+        foreach (var item in kullanicilar.Values)
+        {
+            Console.WriteLine(item);
+
+        }
     }
 }
