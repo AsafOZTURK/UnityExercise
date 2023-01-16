@@ -15,7 +15,7 @@ internal class Program
 
         for (int i = 0; i < 20; i++)
         {
-            int sayi = int.Parse(Console.ReadLine());
+            int sayi = int.Parse(s: Console.ReadLine());
             sayilar.Add(sayi);
         }
 
